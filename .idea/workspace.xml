@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../코딩/micro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -41,6 +41,9 @@
       <updated>1602123571961</updated>
       <workItem from="1602123573075" duration="35000" />
       <workItem from="1602123659893" duration="638000" />
+      <workItem from="1602226528845" duration="28000" />
+      <workItem from="1602226660612" duration="46000" />
+      <workItem from="1602227047136" duration="456000" />
     </task>
     <servers />
   </component>
